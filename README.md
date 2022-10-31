@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=idealsignals&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=idealsignals&theme=github-dark-blue&hide_border=true&border_radius=10&sideNums=61DAFB&fire=61DAFB" alt="mystreak"/>
 </p>
 
 <p align="center">
@@ -17,3 +17,5 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
 </p>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=idealsignals&theme=react&hide_border=true&area=true&custom_title=Recent%20Activity&radius=10)
