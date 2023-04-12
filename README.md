@@ -17,5 +17,3 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
 </p>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=idealsignals&theme=react&hide_border=true&area=true&custom_title=Recent%20Activity&radius=10)
